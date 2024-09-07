@@ -101,4 +101,4 @@ The React application will run on port 3000 and the server port 3001.
 
 ## License
 
-[MIT](LICENSE) © Phil Nash
+[MIT](LICENSE) © Usman Ahmed
